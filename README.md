@@ -21,8 +21,8 @@ This project analyzes a comprehensive dataset from a rapidly growing Indian e-co
 
 ### 1 & 2) Revenue and Order Volume Trends
 The platform processed a total of **98,207 orders**, generating approximately **₹15.9 million** in total revenue. 
-* **Peak Season:** January 2017 saw the highest volume with ~7,423 orders.
-* **Lowest Period:** Q3 2016 generated the lowest revenue at ~₹3.3 million.
+* **Peak Season:** January 2024 saw the highest volume with ~7,423 orders.
+* **Lowest Period:** Q3 2023 generated the lowest revenue at ~₹3.3 million.
 
 ### 3 & 10) Top Product Categories by Volume
 "Bed, Bath & Table" drives the highest order volume, but "Computer Accessories" generates the highest total revenue due to its higher price point.
