@@ -22,7 +22,9 @@ This project analyzes a comprehensive dataset from a rapidly growing Indian e-co
 ### 1 & 2) Revenue and Order Volume Trends
 The platform processed a total of **98,207 orders**, generating approximately **₹15.9 million** in total revenue. 
 * **Peak Season:** January 2024 saw the highest volume with ~7,423 orders.
-* **Lowest Period:** Q3 2023 generated the lowest revenue at ~₹3.3 million.
+* **Lowest Period:** Q1 2023 generated the lowest revenue at ~₹3.3 million.
+
+![Revenue Trends](revenue_trends.png)
 
 ### 3 & 10) Top Product Categories by Volume
 "Bed, Bath & Table" drives the highest order volume, but "Computer Accessories" generates the highest total revenue due to its higher price point.
@@ -38,6 +40,8 @@ The platform processed a total of **98,207 orders**, generating approximately **
 ### 4 & 11) Payment Methods and Average Order Value (AOV)
 Credit Cards dominate the platform's transactions, driving both the highest volume and the highest Average Order Value. 
 
+![AOV by Payment Method](aov_by_payment.png)
+
 | Payment Method | Total Orders | Average Order Value (AOV) |
 | :--- | :--- | :--- |
 | Credit Card | 76,505 | ₹162.70 |
@@ -46,7 +50,7 @@ Credit Cards dominate the platform's transactions, driving both the highest volu
 | Debit Card | 1,528 | ₹142.57 |
 
 ### 5 & 6) Seller Dynamics & Ratings Impact
-The platform grew to **4,312 active sellers** by 2018. There is a strong positive correlation (0.74 coefficient) between high review scores and total revenue generated.
+The platform grew to **4,312 active sellers** by 2024. There is a strong positive correlation (0.74 coefficient) between high review scores and total revenue generated.
 
 | Review Score | Order Volume Impact | Revenue Correlation |
 | :--- | :--- | :--- |
@@ -58,6 +62,8 @@ The platform grew to **4,312 active sellers** by 2018. There is a strong positiv
 ### 7) Customer Retention Rate
 Retention is a critical bottleneck for the platform, with the vast majority of users churning after a single purchase.
 
+![Customer Retention](customer_retention.png)
+
 | Customer Type | Total Count | % of Total Sales Generated |
 | :--- | :--- | :--- |
 | Single-Purchase Customers | 93,099 | 87% |
@@ -66,9 +72,13 @@ Retention is a critical bottleneck for the platform, with the vast majority of u
 ### 9) Order Cancellation Rate
 The platform maintains a highly efficient **cancellation rate of just 0.48%**, indicating strong logistics fulfillment and high customer purchase intent once checkout is completed.
 
+![Cancellation Rate](cancellation_rate.png)
+
 ### 13 & 14) Profitability & Regional Density
 * **Highest Margins:** "Fixed Telephony" (327% margin) and "Signaling & Security" (287% margin).
 * **Top Regions:** Maharashtra, Delhi, and Karnataka represent the highest density of customer orders, aligning with Tier-1 city e-commerce trends.
+
+![Profit Margins](profit_margins.png)
 
 ---
 
