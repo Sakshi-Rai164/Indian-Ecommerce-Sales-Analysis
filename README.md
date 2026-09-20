@@ -1,7 +1,7 @@
 # E-Commerce Business Performance & Sales Funnel Analysis
 
 ## Overview
-This project analyzes a comprehensive dataset from a rapidly growing Indian e-commerce company . The objective is to explore operations across product listings, sellers, and customer interactions to extract actionable business insights and strategic recommendations for the Indian market.
+This project analyzes a comprehensive dataset from a rapidly growing Indian e-commerce company. The objective is to explore operations across product listings, sellers, and customer interactions to extract actionable business insights and strategic recommendations for the Indian market.
 
 ## Project Goals
 * Validate and clean raw e-commerce data to improve analytical accuracy.
@@ -10,17 +10,17 @@ This project analyzes a comprehensive dataset from a rapidly growing Indian e-co
 
 ## Key Business Insights
 * **Revenue & Volume:** The platform generated approximately ₹15.9 million in total revenue across 98,207 total orders.
-* **Customer Retention:** The retention rate presents a major bottleneck . Out of 96,096 customers, only 2,997 made repeated purchases, accounting for just 13% of total sales.
-* **Payment Preferences:** Credit cards and UPI are the dominant payment methods . Credit cards (used for 76,505 orders) drove the highest Average Order Value (AOV) of ₹162.70, while UPI/Vouchers averaged ₹62.33.
+* **Customer Retention:** The retention rate presents a major bottleneck. Out of 96,096 customers, only 2,997 made repeated purchases, accounting for just 13% of total sales.
+* **Payment Preferences:** Credit cards and UPI are the dominant payment methods. Credit cards (used for 76,505 orders) drove the highest Average Order Value (AOV) of ₹162.70, while UPI/Vouchers averaged ₹62.33.
 * **Top Products:** "Bed, Bath & Table" is the most popular product category by volume, while "Computer Accessories" are the top-selling items overall.
-* **Seller Dynamics:** The platform hosts 4,312 active sellers . Sellers maintaining 4 and 5-star review scores drive the highest total revenue and order volumes.
+* **Seller Dynamics:** The platform hosts 4,312 active sellers. Sellers maintaining 4 and 5-star review scores drive the highest total revenue and order volumes.
 
 ---
 
 ## ANSWERS TO THE BUSINESS QUESTIONS
 
 ### 1 & 2) Revenue and Order Volume Trends
-The platform processed a total of **98,207 orders**, generating approximately **₹15.9 million** in total revenue.
+The platform processed a total of **98,207 orders**, generating approximately **₹15.9 million** in total revenue. 
 * **Peak Season:** January 2017 saw the highest volume with ~7,423 orders.
 * **Lowest Period:** Q3 2016 generated the lowest revenue at ~₹3.3 million.
 
@@ -36,7 +36,7 @@ The platform processed a total of **98,207 orders**, generating approximately **
 | 5 | Computer Accessories | Sports & Leisure |
 
 ### 4 & 11) Payment Methods and Average Order Value (AOV)
-Credit Cards dominate the platform's transactions, driving both the highest volume and the highest Average Order Value.
+Credit Cards dominate the platform's transactions, driving both the highest volume and the highest Average Order Value. 
 
 | Payment Method | Total Orders | Average Order Value (AOV) |
 | :--- | :--- | :--- |
@@ -46,7 +46,7 @@ Credit Cards dominate the platform's transactions, driving both the highest volu
 | Debit Card | 1,528 | ₹142.57 |
 
 ### 5 & 6) Seller Dynamics & Ratings Impact
-The platform grew to **4,312 active sellers** by 2018 . There is a strong positive correlation (0.74 coefficient) between high review scores and total revenue generated.
+The platform grew to **4,312 active sellers** by 2018. There is a strong positive correlation (0.74 coefficient) between high review scores and total revenue generated.
 
 | Review Score | Order Volume Impact | Revenue Correlation |
 | :--- | :--- | :--- |
