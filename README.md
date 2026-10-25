@@ -1,7 +1,7 @@
 # E-Commerce Business Performance & Sales Funnel Analysis
 
 ## Overview
-This project analyzes a comprehensive dataset from a rapidly growing Indian e-commerce company. The objective is to explore operations across product listings, sellers, and customer interactions to extract actionable business insights and strategic recommendations for the Indian market
+This project analyzes a comprehensive dataset from a rapidly growing Indian e-commerce company. The objective is to explore operations across product listings, sellers, and customer interactions to extract actionable business insights and strategic recommendations for the Indian market.
 
 ## Project Goals
 * Validate and clean raw e-commerce data to improve analytical accuracy.
